@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Contact">a782ee89db650810a0fa771c8c9619cd</application>
+        <filter/>
+        <name>Contacts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 14:56:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2782ee89db650810a0fa771c8c9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contacts</sys_name>
+        <sys_package display_value="Guided App" source="x_34283_guided_app">d55195e6dbd10850a0fa771c8c96194e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guided App">d55195e6dbd10850a0fa771c8c96194e</sys_scope>
+        <sys_update_name>sys_ui_module_2782ee89db650810a0fa771c8c9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 14:56:47</sys_updated_on>
+        <table>x_34283_guided_app_contact</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
